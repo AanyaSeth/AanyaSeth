@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AanyaSeth](https://github.com/AanyaSeth)
 
-- 💬 Ask me about **Dancing**
+- 💬 Ask me about **Dancing** and **Programming**
 
 - 📫 How to reach me **sethaanya51@gmail.com**
 
