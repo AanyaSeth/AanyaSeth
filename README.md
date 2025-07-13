@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dancing** and **Programming**
 
-- 📫 How to reach me **sethaanya51@gmail.com**
+- 📫 How to reach me **aanyaseth1510@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
