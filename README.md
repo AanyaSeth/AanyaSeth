@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aanya Seth</h1>
-<h3 align="center">A passionate frontend developer and Student from India</h3>
+<h3 align="center">A passionate Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanyaseth&label=Profile%20views&color=0e75b6&style=flat" alt="aanyaseth" /> </p>
 
-- 🌱 I’m currently learning **Html, Css, Python, C++**
+- 🌱 I’m currently learning **Python, C++, Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AanyaSeth](https://github.com/AanyaSeth)
 
